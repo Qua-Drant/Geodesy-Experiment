@@ -6,7 +6,7 @@ A vault help to solve some issues in SYSU Geodesy-Experiment...
 
 可根据需求通过expand_polygon函数进行调整。
 
-使用时在DrawSpecialAre.m文件中修改数据文件与边界文件即可~
+使用时在DrawSpecialArea.m文件中修改数据文件与边界文件即可~
 
 效果图展示如下：
 
